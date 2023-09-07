@@ -1,5 +1,6 @@
 # Readme
-> **This repo provides easy means of inference, training, and evaluation of LLMs**
+> **This repo provides easy means of inference, training, and evaluation of LLMs** It uses Modal Labs compute to peform 
+> its operations.
 
 >IN PROGRESS: Currently working on implementing open source version of this previously private repo.
 
